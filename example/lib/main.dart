@@ -4,10 +4,10 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_with_redsys/common/ui_direct_payment_config.dart';
-import 'package:flutter_with_redsys/flutter_with_redsys.dart';
-import 'package:flutter_with_redsys/common/tpvv_configuration.dart';
-import 'package:flutter_with_redsys/common/tpvv_constants.dart';
+import 'package:redsys_with_flutter/common/ui_direct_payment_config.dart';
+import 'package:redsys_with_flutter/flutter_with_redsys.dart';
+import 'package:redsys_with_flutter/common/tpvv_configuration.dart';
+import 'package:redsys_with_flutter/common/tpvv_constants.dart';
 
 void main() {
   runApp(const MyApp());

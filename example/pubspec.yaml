@@ -1,4 +1,4 @@
-name: flutter_with_redsys_example
+name: redsys_with_flutter_example
 description: Demonstrates how to use the flutter_with_redsys plugin.
 
 # The following line prevents the package from being accidentally published to
@@ -18,7 +18,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_with_redsys:
+  redsys_with_flutter:
     # When depending on this package from a real application you should use:
     #   flutter_with_redsys: ^x.y.z
     # See https://dart.dev/tools/pub/dependencies#version-constraints

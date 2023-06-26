@@ -1,8 +1,9 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_with_redsys/flutter_with_redsys.dart';
-import 'package:flutter_with_redsys/flutter_with_redsys_platform_interface.dart';
-import 'package:flutter_with_redsys/flutter_with_redsys_method_channel.dart';
+
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
+import 'package:redsys_with_flutter/flutter_with_redsys.dart';
+import 'package:redsys_with_flutter/flutter_with_redsys_method_channel.dart';
+import 'package:redsys_with_flutter/flutter_with_redsys_platform_interface.dart';
 
 class MockFlutterWithRedsysPlatform
     with MockPlatformInterfaceMixin

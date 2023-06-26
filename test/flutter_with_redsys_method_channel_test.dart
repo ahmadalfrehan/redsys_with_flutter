@@ -1,6 +1,7 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_with_redsys/flutter_with_redsys_method_channel.dart';
+
+import 'package:redsys_with_flutter/flutter_with_redsys_method_channel.dart';
 
 void main() {
   MethodChannelFlutterWithRedsys platform = MethodChannelFlutterWithRedsys();

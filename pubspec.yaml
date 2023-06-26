@@ -1,10 +1,10 @@
 name: redsys_with_flutter
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/ahmadalfrehan/redsys_with_flutter
 
 environment:
-  sdk: '>=2.18.4 <3.0.0'
+  sdk: '>=2.18.4 <4.0.0'
   flutter: ">=2.5.0"
 
 dependencies:

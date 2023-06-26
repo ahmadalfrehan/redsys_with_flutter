@@ -1,6 +1,7 @@
 
 
-import 'package:flutter_with_redsys/common/ui_direct_payment_config.dart';
+// import 'package:flutter_with_redsys/common/ui_direct_payment_config.dart';
+import 'package:redsys_with_flutter/common/ui_direct_payment_config.dart';
 
 class TPVVConfiguration {
   String? license;
