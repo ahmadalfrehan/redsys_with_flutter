@@ -94,7 +94,7 @@ urlEnvironment: UrlEnvironment.live,
 # Documentation
 
 For detailed documentation and usage examples, please refer to
-the [Redsys with Flutter documentation.](ahmadalfrehan.com/articles)
+the [Redsys with Flutter documentation.](https://ahmadalfrehan.com/articles)
 
 # License
 
