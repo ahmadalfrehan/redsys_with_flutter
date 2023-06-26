@@ -1,5 +1,5 @@
 name: redsys_with_flutter
-description: A new Flutter plugin project.
+description: Flutter package to perform payment requests with redsys
 version: 0.0.1
 homepage: https://github.com/ahmadalfrehan/redsys_with_flutter
 
