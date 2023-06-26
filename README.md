@@ -12,7 +12,7 @@ This project is a starting point for a Flutter
 
 If you encounter any issues with the package or would like to contribute to its development, please
 open an issue or submit a pull request on the
-https://github.com/ahmadalfrehan/redsys_with_flutter.
+[github repo](https://github.com/ahmadalfrehan/redsys_with_flutter).
 
 ## Installation
 
