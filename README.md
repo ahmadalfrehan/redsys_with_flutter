@@ -18,8 +18,14 @@ https://github.com/ahmadalfrehan/redsys_with_flutter.
 To use Redsys with Flutter, follow these steps:
 
 Add the dependency to your pubspec.yaml file:
-dependencies:
+``` dependencies:
 redsys_with_flutter: ^1.0.0
-
+```
 Run flutter pub get to fetch the package
+
+# Usage
+## Import the package
+```
+import 'package:redsys_with_flutter/redsys_with_flutter.dart';
+```
 
